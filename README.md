@@ -7,7 +7,7 @@
 
 
 [GITHUB_PROFILE]: https://github.com/glitzma
-[GITHUB_STATS_SRC]: https://github-readme-stats.vercel.app/api?username=freemenL&show_icons=true
+[GITHUB_STATS_SRC]: https://github-readme-stats.vercel.app/api?username=mamingjuan&show_icons=true
 [GITHUB_LANG_SRC]: https://github-readme-stats.vercel.app/api/top-langs/?username=glitzma&layout=compact
 
 [![mamingjuan's GitHub Stats][GITHUB_STATS_SRC]][GITHUB_PROFILE]
