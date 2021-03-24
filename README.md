@@ -5,9 +5,6 @@
 
 [我的博客](https://mamingjuan.cn)
 
-[![zhmushan's GitHub Stats][GITHUB_STATS_SRC]][GITHUB_PROFILE]
-
-[![zhmushan's Top Langs][GITHUB_LANG_SRC]][GITHUB_PROFILE]
 
 
 <!--
