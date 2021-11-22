@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 📫 How to reach me: 微信: glitz_ma
 - ⚡ Fun fact: Google的主页之所以如此简洁，是因为创始人不懂HTML。
+- 📫 How to reach me: Telegram @mamingjuan
 
 [我的博客](https://mamingjuan.cn)
 
