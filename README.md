@@ -6,6 +6,9 @@
 [我的博客](https://mamingjuan.cn)
 
 
+
+<!--
+
 [GITHUB_PROFILE]: https://github.com/glitzma
 [GITHUB_STATS_SRC]: https://github-readme-stats.vercel.app/api?username=glitzma&show_icons=true
 [GITHUB_LANG_SRC]: https://github-readme-stats.vercel.app/api/top-langs/?username=glitzma&layout=compact
@@ -13,8 +16,6 @@
 [![mamingjuan's GitHub Stats][GITHUB_STATS_SRC]][GITHUB_PROFILE]
 
 
-
-<!--
 **glitzma/glitzma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
