@@ -19,7 +19,7 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 👯 Check out my recent followers
+#### 👯 Check out my recent followers.
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
