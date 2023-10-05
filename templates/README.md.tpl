@@ -5,7 +5,7 @@
 - [我的博客](https://mamingjuan.cn)
 
 #### 🔨 Check out my recent pull requests
-{{range recentPullRequests 5}}
+{{range recentPullRequests 15}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
@@ -20,6 +20,6 @@
 {{- end}}
 
 #### 👯 Check out my recent followers.
-{{range followers 5}}
+{{range followers 2}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
