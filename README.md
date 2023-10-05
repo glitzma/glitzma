@@ -24,5 +24,3 @@
 
 - [margin120](https://github.com/margin120)
 - [carlosal1015](https://github.com/carlosal1015)
-- [torresng](https://github.com/torresng)
-- [happy760690](https://github.com/happy760690)
