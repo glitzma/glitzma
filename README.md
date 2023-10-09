@@ -9,11 +9,21 @@
 
 #### ⭐ Check out my recent stars
 
+- [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. (today)
 - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) - Web UI for Jaeger (1 day ago)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (1 week ago)
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source. (3 weeks ago)
 - [jbaysolutions/vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js. (1 month ago)
 - [JuneAndGreen/sm-crypto](https://github.com/JuneAndGreen/sm-crypto) - 国密算法js版 (5 months ago)
+- [heynext/v-contextmenu](https://github.com/heynext/v-contextmenu) - 🖱 ContextMenu based on Vue 3.0 (5 months ago)
+- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy) (2 years ago)
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core (2 years ago)
+- [efoxTeam/emp](https://github.com/efoxTeam/emp) - EMP Micro FE Base on webpack 5 &amp; module federation (2 years ago)
+- [glitzma/vuepress-theme-glitzma](https://github.com/glitzma/vuepress-theme-glitzma) -  (2 years ago)
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (3 years ago)
+- [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js. (4 years ago)
+- [cmaas/markdown-it-table-of-contents](https://github.com/cmaas/markdown-it-table-of-contents) - A table of contents plugin for Markdown-it  (4 years ago)
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter. (4 years ago)
 
 #### 👷 Check out what I'm currently working on
 
