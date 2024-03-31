@@ -27,8 +27,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [glitzma/glitzma.github.io](https://github.com/glitzma/glitzma.github.io) -  (10 months ago)
-- [glitzma/vuepress-theme-glitzma](https://github.com/glitzma/vuepress-theme-glitzma) -  (10 months ago)
+- [glitzma/glitzma.github.io](https://github.com/glitzma/glitzma.github.io) -  (11 months ago)
+- [glitzma/vuepress-theme-glitzma](https://github.com/glitzma/vuepress-theme-glitzma) -  (11 months ago)
 
 #### 👯 Check out my recent followers.
 
