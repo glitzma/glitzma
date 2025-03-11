@@ -11,6 +11,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript) - AIScript is a unique combination of interpreter programming language and web framework, both written in Rust, designed to help developers build AI applications effortlessly.  (today)
 - [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template / vue mobile / vue h5 / vue vant / vue web app / 移动端最佳实践 (2 weeks ago)
 - [alchaincyf/img2046](https://github.com/alchaincyf/img2046) - 图像魔方 - 一个强大的图像编辑和AI图片生成工具 (3 weeks ago)
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. (1 year ago)
@@ -25,7 +26,6 @@
 - [empjs/emp](https://github.com/empjs/emp) - EMP Micro FE Base on Rspack &amp; module federation (3 years ago)
 - [glitzma/vuepress-theme-glitzma](https://github.com/glitzma/vuepress-theme-glitzma) -  (3 years ago)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (5 years ago)
-- [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js. (5 years ago)
 
 #### 👷 Check out what I'm currently working on
 
