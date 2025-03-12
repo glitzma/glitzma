@@ -6,13 +6,13 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [pull code](https://github.com/glitzma/mobvue/pull/1) on [glitzma/mobvue](https://github.com/glitzma/mobvue) (1 day ago)
+- [pull code](https://github.com/glitzma/mobvue/pull/1) on [glitzma/mobvue](https://github.com/glitzma/mobvue) (2 days ago)
 - [feat: support i18n](https://github.com/un-pany/mobvue/pull/5) on [un-pany/mobvue](https://github.com/un-pany/mobvue) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript) - AIScript is a unique combination of interpreter programming language and web framework, both written in Rust, designed to help developers build AI applications effortlessly.  (today)
-- [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template / vue mobile / vue h5 / vue vant / vue web app / 移动端最佳实践 (2 weeks ago)
+- [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript) - AIScript is a unique combination of interpreter programming language and web framework, both written in Rust, designed to help developers build AI applications effortlessly.  (1 day ago)
+- [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template / vue mobile / vue h5 / vue vant / vue web app / 移动端最佳实践 (3 weeks ago)
 - [alchaincyf/img2046](https://github.com/alchaincyf/img2046) - 图像魔方 - 一个强大的图像编辑和AI图片生成工具 (3 weeks ago)
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. (1 year ago)
 - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) - Web UI for Jaeger (1 year ago)
@@ -29,7 +29,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template / vue mobile / vue h5 / vue vant / vue web app / 移动端最佳实践 (1 day ago)
+- [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template / vue mobile / vue h5 / vue vant / vue web app / 移动端最佳实践 (2 days ago)
 
 #### 👯 Check out my recent followers.
 
