@@ -6,13 +6,13 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [pull code](https://github.com/glitzma/mobvue/pull/1) on [glitzma/mobvue](https://github.com/glitzma/mobvue) (2 days ago)
+- [pull code](https://github.com/glitzma/mobvue/pull/1) on [glitzma/mobvue](https://github.com/glitzma/mobvue) (3 days ago)
 - [feat: support i18n](https://github.com/un-pany/mobvue/pull/5) on [un-pany/mobvue](https://github.com/un-pany/mobvue) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [alienzhou/fe-performance-journey](https://github.com/alienzhou/fe-performance-journey) - 🚵 a Journey of Performance Optimizing in Frontend 🚀 (today)
-- [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript) - AIScript is a unique combination of interpreter programming language and web framework, both written in Rust, designed to help developers build AI applications effortlessly.  (1 day ago)
+- [alienzhou/fe-performance-journey](https://github.com/alienzhou/fe-performance-journey) - 🚵 a Journey of Performance Optimizing in Frontend 🚀 (1 day ago)
+- [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript) - AIScript is a unique combination of interpreter programming language and web framework, both written in Rust, designed to help developers build AI applications effortlessly.  (2 days ago)
 - [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template / vue mobile / vue h5 / vue vant / vue web app / 移动端最佳实践 (3 weeks ago)
 - [alchaincyf/img2046](https://github.com/alchaincyf/img2046) - 图像魔方 - 一个强大的图像编辑和AI图片生成工具 (3 weeks ago)
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. (1 year ago)
@@ -29,7 +29,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template / vue mobile / vue h5 / vue vant / vue web app / 移动端最佳实践 (2 days ago)
+- [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template / vue mobile / vue h5 / vue vant / vue web app / 移动端最佳实践 (3 days ago)
 
 #### 👯 Check out my recent followers.
 
