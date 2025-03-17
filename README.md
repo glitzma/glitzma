@@ -11,6 +11,8 @@
 
 #### ⭐ Check out my recent stars
 
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library. (today)
+- [repalash/threepipe-device-mockup-codrops](https://github.com/repalash/threepipe-device-mockup-codrops) - Minimal 3D website to present designs, websites on a laptop and a phone in an interactive environment. Created for a codrops tutorial. (today)
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas: (3 days ago)
 - [alienzhou/fe-performance-journey](https://github.com/alienzhou/fe-performance-journey) - 🚵 a Journey of Performance Optimizing in Frontend 🚀 (5 days ago)
 - [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript) - AIScript is a unique combination of interpreter programming language and web framework, both written in Rust, designed to help developers build AI applications effortlessly.  (6 days ago)
@@ -24,8 +26,6 @@
 - [JuneAndGreen/sm-crypto](https://github.com/JuneAndGreen/sm-crypto) - 国密算法js版 (2 years ago)
 - [CyberNika/v-contextmenu](https://github.com/CyberNika/v-contextmenu) - 🖱 ContextMenu based on Vue 3 &amp; Vue 2 (2 years ago)
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy) (3 years ago)
-- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core (3 years ago)
-- [empjs/emp](https://github.com/empjs/emp) - EMP Micro FE Base on Rspack &amp; module federation (3 years ago)
 
 #### 👷 Check out what I'm currently working on
 
