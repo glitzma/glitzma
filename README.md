@@ -16,7 +16,7 @@
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas: (5 days ago)
 - [alienzhou/fe-performance-journey](https://github.com/alienzhou/fe-performance-journey) - 🚵 a Journey of Performance Optimizing in Frontend 🚀 (1 week ago)
 - [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript) - AIScript is a unique combination of interpreter programming language and web framework, both written in Rust, designed to help developers build AI applications effortlessly.  (1 week ago)
-- [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template / vue3 mobile / vue3 h5 / vue3 vant / vue3 web app / vue3 移动端最佳实践 (4 weeks ago)
+- [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template / vue mobile, vue h5, vue vant, vue web app, vue3 mobile, vue3 h5, vue3 vant, vue3 web app, vue 移动端模板, vue3 移动端模板 (4 weeks ago)
 - [alchaincyf/img2046](https://github.com/alchaincyf/img2046) - 图像魔方 - 一个强大的图像编辑和AI图片生成工具 (4 weeks ago)
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. (1 year ago)
 - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) - Web UI for Jaeger (1 year ago)
@@ -29,7 +29,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template / vue3 mobile / vue3 h5 / vue3 vant / vue3 web app / vue3 移动端最佳实践 (1 week ago)
+- [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template / vue mobile, vue h5, vue vant, vue web app, vue3 mobile, vue3 h5, vue3 vant, vue3 web app, vue 移动端模板, vue3 移动端模板 (1 week ago)
 
 #### 👯 Check out my recent followers.
 
