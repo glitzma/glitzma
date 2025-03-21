@@ -11,6 +11,10 @@
 
 #### ⭐ Check out my recent stars
 
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it! (today)
+- [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (today)
+- [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts (today)
+- [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing (today)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (today)
 - [geddle/geddle-web](https://github.com/geddle/geddle-web) -  (today)
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library. (4 days ago)
@@ -22,10 +26,6 @@
 - [alchaincyf/img2046](https://github.com/alchaincyf/img2046) - 图像魔方 - 一个强大的图像编辑和AI图片生成工具 (1 month ago)
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. (1 year ago)
 - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) - Web UI for Jaeger (1 year ago)
-- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (1 year ago)
-- [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source. (2 years ago)
-- [jbaysolutions/vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js. (2 years ago)
-- [JuneAndGreen/sm-crypto](https://github.com/JuneAndGreen/sm-crypto) - 国密算法js版 (2 years ago)
 
 #### 👷 Check out what I'm currently working on
 
