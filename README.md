@@ -11,6 +11,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (today)
 - [geddle/geddle-web](https://github.com/geddle/geddle-web) -  (today)
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library. (4 days ago)
 - [repalash/threepipe-device-mockup-codrops](https://github.com/repalash/threepipe-device-mockup-codrops) - Minimal 3D website to present designs, websites on a laptop and a phone in an interactive environment. Created for a codrops tutorial. (4 days ago)
@@ -25,7 +26,6 @@
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source. (2 years ago)
 - [jbaysolutions/vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js. (2 years ago)
 - [JuneAndGreen/sm-crypto](https://github.com/JuneAndGreen/sm-crypto) - 国密算法js版 (2 years ago)
-- [CyberNika/v-contextmenu](https://github.com/CyberNika/v-contextmenu) - 🖱 ContextMenu based on Vue 3 &amp; Vue 2 (2 years ago)
 
 #### 👷 Check out what I'm currently working on
 
