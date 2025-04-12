@@ -12,6 +12,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (today)
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor (today)
 - [ProseMirror/prosemirror-view](https://github.com/ProseMirror/prosemirror-view) - ProseMirror&#39;s view component (today)
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans. (today)
@@ -26,7 +27,6 @@
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library. (3 weeks ago)
 - [repalash/threepipe-device-mockup-codrops](https://github.com/repalash/threepipe-device-mockup-codrops) - Minimal 3D website to present designs, websites on a laptop and a phone in an interactive environment. Created for a codrops tutorial. (3 weeks ago)
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas: (4 weeks ago)
-- [alienzhou/fe-performance-journey](https://github.com/alienzhou/fe-performance-journey) - 🚵 a Journey of Performance Optimizing in Frontend 🚀 (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
