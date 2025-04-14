@@ -12,6 +12,9 @@
 
 #### ⭐ Check out my recent stars
 
+- [google/A2A](https://github.com/google/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications. (today)
+- [Anber/wyw-in-js](https://github.com/Anber/wyw-in-js) -  (today)
+- [jolbol1/jolly-ui](https://github.com/jolbol1/jolly-ui) - shadcn/ui compatible react aria components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (today)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (2 days ago)
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor (2 days ago)
 - [ProseMirror/prosemirror-view](https://github.com/ProseMirror/prosemirror-view) - ProseMirror&#39;s view component (2 days ago)
@@ -24,9 +27,6 @@
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing (3 weeks ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (3 weeks ago)
 - [geddle/geddle-web](https://github.com/geddle/geddle-web) -  (3 weeks ago)
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library. (4 weeks ago)
-- [repalash/threepipe-device-mockup-codrops](https://github.com/repalash/threepipe-device-mockup-codrops) - Minimal 3D website to present designs, websites on a laptop and a phone in an interactive environment. Created for a codrops tutorial. (4 weeks ago)
-- [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas: (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
