@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: Telegram [@mamingjuan](https://t.me/mamingjuan)
 
-- [我的博客](https://mamingjuan.cn)
+- [我的博客(https://mamingjuan.cn)](https://mamingjuan.cn)
 - [我github（https://github.com/happy760690）](https://github.com/happy760690)
 
 #### 🔨 Check out my recent pull requests
