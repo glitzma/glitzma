@@ -12,21 +12,21 @@
 
 #### ⭐ Check out my recent stars
 
-- [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. (1 day ago)
-- [CoreUnit-NET/.github](https://github.com/CoreUnit-NET/.github) -  (1 day ago)
-- [invisal/sqlite-internal](https://github.com/invisal/sqlite-internal) - Playaround with SQLite internal (1 day ago)
-- [aframevr/aframe-inspector](https://github.com/aframevr/aframe-inspector) - :mag: Visual inspector tool for A-Frame. Hit *&lt;ctrl&gt; &#43; &lt;alt&gt; &#43; i* on any A-Frame scene. (1 day ago)
-- [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website. (1 day ago)
-- [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (1 day ago)
-- [haoqunjiang/pigment-css](https://github.com/haoqunjiang/pigment-css) - Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time. (1 day ago)
-- [haoqunjiang/base-ui](https://github.com/haoqunjiang/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (1 day ago)
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 day ago)
-- [google/A2A](https://github.com/google/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications. (4 days ago)
-- [Anber/wyw-in-js](https://github.com/Anber/wyw-in-js) -  (4 days ago)
-- [jolbol1/jolly-ui](https://github.com/jolbol1/jolly-ui) - shadcn/ui compatible react aria components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (4 days ago)
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (6 days ago)
-- [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor (6 days ago)
-- [ProseMirror/prosemirror-view](https://github.com/ProseMirror/prosemirror-view) - ProseMirror&#39;s view component (6 days ago)
+- [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. (2 days ago)
+- [CoreUnit-NET/.github](https://github.com/CoreUnit-NET/.github) -  (2 days ago)
+- [invisal/sqlite-internal](https://github.com/invisal/sqlite-internal) - Playaround with SQLite internal (2 days ago)
+- [aframevr/aframe-inspector](https://github.com/aframevr/aframe-inspector) - :mag: Visual inspector tool for A-Frame. Hit *&lt;ctrl&gt; &#43; &lt;alt&gt; &#43; i* on any A-Frame scene. (2 days ago)
+- [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website. (2 days ago)
+- [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (2 days ago)
+- [haoqunjiang/pigment-css](https://github.com/haoqunjiang/pigment-css) - Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time. (2 days ago)
+- [haoqunjiang/base-ui](https://github.com/haoqunjiang/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (2 days ago)
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (2 days ago)
+- [google/A2A](https://github.com/google/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications. (5 days ago)
+- [Anber/wyw-in-js](https://github.com/Anber/wyw-in-js) -  (5 days ago)
+- [jolbol1/jolly-ui](https://github.com/jolbol1/jolly-ui) - shadcn/ui compatible react aria components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (5 days ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 week ago)
+- [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor (1 week ago)
+- [ProseMirror/prosemirror-view](https://github.com/ProseMirror/prosemirror-view) - ProseMirror&#39;s view component (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
