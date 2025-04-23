@@ -12,6 +12,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - Turns Codebase into Easy Tutorial with AI (today)
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. (6 days ago)
 - [CoreUnit-NET/.github](https://github.com/CoreUnit-NET/.github) -  (6 days ago)
 - [invisal/sqlite-internal](https://github.com/invisal/sqlite-internal) - Playaround with SQLite internal (6 days ago)
@@ -26,7 +27,6 @@
 - [jolbol1/jolly-ui](https://github.com/jolbol1/jolly-ui) - shadcn/ui compatible react aria components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (1 week ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 week ago)
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor (1 week ago)
-- [ProseMirror/prosemirror-view](https://github.com/ProseMirror/prosemirror-view) - ProseMirror&#39;s view component (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
