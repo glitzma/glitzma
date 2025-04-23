@@ -12,6 +12,8 @@
 
 #### ⭐ Check out my recent stars
 
+- [ProseMirror/prosemirror-transform](https://github.com/ProseMirror/prosemirror-transform) - ProseMirror document transformations (today)
+- [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications (today)
 - [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - Turns Codebase into Easy Tutorial with AI (today)
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. (6 days ago)
 - [CoreUnit-NET/.github](https://github.com/CoreUnit-NET/.github) -  (6 days ago)
@@ -25,8 +27,6 @@
 - [google/A2A](https://github.com/google/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications. (1 week ago)
 - [Anber/wyw-in-js](https://github.com/Anber/wyw-in-js) -  (1 week ago)
 - [jolbol1/jolly-ui](https://github.com/jolbol1/jolly-ui) - shadcn/ui compatible react aria components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (1 week ago)
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 week ago)
-- [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
