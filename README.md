@@ -12,9 +12,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [ProseMirror/prosemirror-transform](https://github.com/ProseMirror/prosemirror-transform) - ProseMirror document transformations (4 days ago)
-- [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications (4 days ago)
-- [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - Turns Codebase into Easy Tutorial with AI (4 days ago)
+- [ProseMirror/prosemirror-transform](https://github.com/ProseMirror/prosemirror-transform) - ProseMirror document transformations (5 days ago)
+- [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications (5 days ago)
+- [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - Turns Codebase into Easy Tutorial with AI (5 days ago)
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. (1 week ago)
 - [CoreUnit-NET/.github](https://github.com/CoreUnit-NET/.github) -  (1 week ago)
 - [invisal/sqlite-internal](https://github.com/invisal/sqlite-internal) - Playaround with SQLite internal (1 week ago)
@@ -24,9 +24,9 @@
 - [haoqunjiang/pigment-css](https://github.com/haoqunjiang/pigment-css) - Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time. (1 week ago)
 - [haoqunjiang/base-ui](https://github.com/haoqunjiang/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (1 week ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 week ago)
-- [google/A2A](https://github.com/google/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications. (1 week ago)
-- [Anber/wyw-in-js](https://github.com/Anber/wyw-in-js) -  (1 week ago)
-- [jolbol1/jolly-ui](https://github.com/jolbol1/jolly-ui) - shadcn/ui compatible react aria components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (1 week ago)
+- [google/A2A](https://github.com/google/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications. (2 weeks ago)
+- [Anber/wyw-in-js](https://github.com/Anber/wyw-in-js) -  (2 weeks ago)
+- [jolbol1/jolly-ui](https://github.com/jolbol1/jolly-ui) - shadcn/ui compatible react aria components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
