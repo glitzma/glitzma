@@ -12,9 +12,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [ProseMirror/prosemirror-transform](https://github.com/ProseMirror/prosemirror-transform) - ProseMirror document transformations (1 week ago)
-- [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications (1 week ago)
-- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial (1 week ago)
+- [ProseMirror/prosemirror-transform](https://github.com/ProseMirror/prosemirror-transform) - ProseMirror document transformations (2 weeks ago)
+- [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications (2 weeks ago)
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial (2 weeks ago)
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. (2 weeks ago)
 - [CoreUnit-NET/.github](https://github.com/CoreUnit-NET/.github) -  (2 weeks ago)
 - [invisal/sqlite-internal](https://github.com/invisal/sqlite-internal) - Playaround with SQLite internal (2 weeks ago)
