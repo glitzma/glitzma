@@ -30,7 +30,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template. vue mobile, vue h5, vue vant, vue3 mobile, vue3 h5, vue3 vant, vue 移动端模板, vue3 移动端模板 (3 months ago)
+- [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template | vue mobile | vue h5 | vue vant | vue3 mobile | vue3 h5 | vue3 vant | vue 移动端模板 | vue3 移动端模板 (3 months ago)
 
 #### 👯 Check out my recent followers.
 
