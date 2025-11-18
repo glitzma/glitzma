@@ -12,6 +12,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [benny201/Frontend-Notes](https://github.com/benny201/Frontend-Notes) -  《JavaScript高级程序设计》、《JavaScript语言精粹》、《JavaScript DOM艺术编程》、《高性能JavaScript》、《深入浅出NodeJs》、《你不知道的JavaScript》等以及 IMOOC、Udacity、W3schools上的JavaScript学习笔记 (today)
 - [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配 (4 months ago)
 - [ProseMirror/prosemirror-transform](https://github.com/ProseMirror/prosemirror-transform) - ProseMirror document transformations (6 months ago)
 - [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications (6 months ago)
@@ -26,7 +27,6 @@
 - [haoqunjiang/base-ui](https://github.com/haoqunjiang/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (7 months ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (7 months ago)
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications. (7 months ago)
-- [Anber/wyw-in-js](https://github.com/Anber/wyw-in-js) -  (7 months ago)
 
 #### 👷 Check out what I'm currently working on
 
