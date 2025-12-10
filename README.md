@@ -26,7 +26,7 @@
 - [haoqunjiang/pigment-css](https://github.com/haoqunjiang/pigment-css) - Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time. (7 months ago)
 - [haoqunjiang/base-ui](https://github.com/haoqunjiang/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (7 months ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (7 months ago)
-- [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications. (7 months ago)
+- [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications. (8 months ago)
 
 #### 👷 Check out what I'm currently working on
 
