@@ -8,7 +8,7 @@
 #### 🔨 Check out my recent pull requests
 
 - [pull code](https://github.com/glitzma/mobvue/pull/1) on [glitzma/mobvue](https://github.com/glitzma/mobvue) (9 months ago)
-- [feat: support i18n](https://github.com/un-pany/mobvue/pull/5) on [un-pany/mobvue](https://github.com/un-pany/mobvue) (9 months ago)
+- [feat: support i18n](https://github.com/un-pany/mobvue/pull/5) on [un-pany/mobvue](https://github.com/un-pany/mobvue) (10 months ago)
 
 #### ⭐ Check out my recent stars
 
