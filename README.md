@@ -12,9 +12,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (today)
-- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (today)
-- [boxlite-ai/claudebox](https://github.com/boxlite-ai/claudebox) - Run Claude Code CLI in isolated micro-VMs (today)
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (1 day ago)
+- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (1 day ago)
+- [boxlite-ai/claudebox](https://github.com/boxlite-ai/claudebox) - Run Claude Code CLI in isolated micro-VMs (1 day ago)
 - [benny201/Frontend-Notes](https://github.com/benny201/Frontend-Notes) -  《JavaScript高级程序设计》、《JavaScript语言精粹》、《JavaScript DOM艺术编程》、《高性能JavaScript》、《深入浅出NodeJs》、《你不知道的JavaScript》等以及 IMOOC、Udacity、W3schools上的JavaScript学习笔记 (2 months ago)
 - [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配 (6 months ago)
 - [ProseMirror/prosemirror-transform](https://github.com/ProseMirror/prosemirror-transform) - ProseMirror document transformations (9 months ago)
