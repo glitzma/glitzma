@@ -12,6 +12,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) - Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization. (today)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (1 week ago)
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (1 week ago)
 - [boxlite-ai/claudebox](https://github.com/boxlite-ai/claudebox) - Run Claude Code CLI in isolated micro-VMs (1 week ago)
@@ -26,7 +27,6 @@
 - [aframevr/aframe-inspector](https://github.com/aframevr/aframe-inspector) - :mag: Visual inspector tool for A-Frame. Hit *&lt;ctrl&gt; &#43; &lt;alt&gt; &#43; i* on any A-Frame scene. (9 months ago)
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (9 months ago)
 - [haoqunjiang/pigment-css](https://github.com/haoqunjiang/pigment-css) - Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time. (9 months ago)
-- [haoqunjiang/base-ui](https://github.com/haoqunjiang/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (9 months ago)
 
 #### 👷 Check out what I'm currently working on
 
