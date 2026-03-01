@@ -12,6 +12,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (today)
 - [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) - Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization. (1 month ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (1 month ago)
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (1 month ago)
@@ -26,7 +27,6 @@
 - [invisal/sqlite-internal](https://github.com/invisal/sqlite-internal) - Playaround with SQLite internal (10 months ago)
 - [aframevr/aframe-inspector](https://github.com/aframevr/aframe-inspector) - :mag: Visual inspector tool for A-Frame. Hit *&lt;ctrl&gt; &#43; &lt;alt&gt; &#43; i* on any A-Frame scene. (10 months ago)
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (10 months ago)
-- [haoqunjiang/pigment-css](https://github.com/haoqunjiang/pigment-css) - Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time. (10 months ago)
 
 #### 👷 Check out what I'm currently working on
 
