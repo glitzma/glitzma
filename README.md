@@ -12,6 +12,10 @@
 
 #### ⭐ Check out my recent stars
 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (today)
+- [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier. (today)
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (today)
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents (today)
 - [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (1 day ago)
 - [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) - Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization. (1 month ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (1 month ago)
@@ -23,10 +27,6 @@
 - [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications (10 months ago)
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial (10 months ago)
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. (10 months ago)
-- [CoreUnit-NET/.github](https://github.com/CoreUnit-NET/.github) -  (10 months ago)
-- [invisal/sqlite-internal](https://github.com/invisal/sqlite-internal) - Playaround with SQLite internal (10 months ago)
-- [aframevr/aframe-inspector](https://github.com/aframevr/aframe-inspector) - :mag: Visual inspector tool for A-Frame. Hit *&lt;ctrl&gt; &#43; &lt;alt&gt; &#43; i* on any A-Frame scene. (10 months ago)
-- [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (10 months ago)
 
 #### 👷 Check out what I'm currently working on
 
