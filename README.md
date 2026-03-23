@@ -12,6 +12,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework. (today)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (1 week ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (3 weeks ago)
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier. (3 weeks ago)
@@ -26,7 +27,6 @@
 - [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配 (8 months ago)
 - [ProseMirror/prosemirror-transform](https://github.com/ProseMirror/prosemirror-transform) - ProseMirror document transformations (11 months ago)
 - [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications (11 months ago)
-- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial (11 months ago)
 
 #### 👷 Check out what I'm currently working on
 
