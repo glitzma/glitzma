@@ -12,7 +12,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework. (1 day ago)
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework. (2 days ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (2 weeks ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (3 weeks ago)
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier. (3 weeks ago)
