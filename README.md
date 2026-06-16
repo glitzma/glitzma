@@ -12,7 +12,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [i18nexus/next-i18n-router](https://github.com/i18nexus/next-i18n-router) - Next.js App Router internationalized routing and locale detection. (5 days ago)
+- [i18nexus/next-i18n-router](https://github.com/i18nexus/next-i18n-router) - Next.js App Router internationalized routing and locale detection. (6 days ago)
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI &amp; Hermes Agent. Only official website: ccswitch.io (2 months ago)
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework (2 months ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (3 months ago)
@@ -25,7 +25,7 @@
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI (4 months ago)
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (4 months ago)
 - [boxlite-ai/claudebox](https://github.com/boxlite-ai/claudebox) - Run Claude Code CLI in isolated micro-VMs (4 months ago)
-- [benny201/Frontend-Notes](https://github.com/benny201/Frontend-Notes) -  《JavaScript高级程序设计》、《JavaScript语言精粹》、《JavaScript DOM艺术编程》、《高性能JavaScript》、《深入浅出NodeJs》、《你不知道的JavaScript》等以及 IMOOC、Udacity、W3schools上的JavaScript学习笔记 (6 months ago)
+- [benny201/Frontend-Notes](https://github.com/benny201/Frontend-Notes) -  《JavaScript高级程序设计》、《JavaScript语言精粹》、《JavaScript DOM艺术编程》、《高性能JavaScript》、《深入浅出NodeJs》、《你不知道的JavaScript》等以及 IMOOC、Udacity、W3schools上的JavaScript学习笔记 (7 months ago)
 - [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - AI video translation &amp; dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100&#43; languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100&#43;语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube (11 months ago)
 
 #### 👷 Check out what I'm currently working on
