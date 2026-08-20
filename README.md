@@ -15,7 +15,7 @@
 - [Terry-Mao/AICodingFlow](https://github.com/Terry-Mao/AICodingFlow) - Setup a AI Coding Flow (1 month ago)
 - [i18nexus/next-i18n-router](https://github.com/i18nexus/next-i18n-router) - Next.js App Router internationalized routing and locale detection. (2 months ago)
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io (4 months ago)
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework (4 months ago)
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework (5 months ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (5 months ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (5 months ago)
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier. (5 months ago)
