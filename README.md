@@ -26,7 +26,7 @@
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi (8 months ago)
 - [slopus/happy](https://github.com/slopus/happy) - Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for. (8 months ago)
 - [boxlite-ai/claudebox](https://github.com/boxlite-ai/claudebox) - Run Claude Code CLI in isolated micro-VMs (8 months ago)
-- [benny201/Frontend-Notes](https://github.com/benny201/Frontend-Notes) -  《JavaScript高级程序设计》、《JavaScript语言精粹》、《JavaScript DOM艺术编程》、《高性能JavaScript》、《深入浅出NodeJs》、《你不知道的JavaScript》等以及 IMOOC、Udacity、W3schools上的JavaScript学习笔记 (10 months ago)
+- [benny201/Frontend-Notes](https://github.com/benny201/Frontend-Notes) -  《JavaScript高级程序设计》、《JavaScript语言精粹》、《JavaScript DOM艺术编程》、《高性能JavaScript》、《深入浅出NodeJs》、《你不知道的JavaScript》等以及 IMOOC、Udacity、W3schools上的JavaScript学习笔记 (11 months ago)
 
 #### 👷 Check out what I'm currently working on
 
