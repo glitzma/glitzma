@@ -12,8 +12,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [Terry-Mao/AICodingFlow](https://github.com/Terry-Mao/AICodingFlow) - Setup a AI Coding Flow (3 months ago)
-- [i18nexus/next-i18n-router](https://github.com/i18nexus/next-i18n-router) - Next.js App Router internationalized routing and locale detection. (4 months ago)
+- [Terry-Mao/AICodingFlow](https://github.com/Terry-Mao/AICodingFlow) - Setup a AI Coding Flow (4 months ago)
+- [i18nexus/next-i18n-router](https://github.com/i18nexus/next-i18n-router) - Next.js App Router internationalized routing and locale detection. (5 months ago)
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io (7 months ago)
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework. (7 months ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process! (8 months ago)
